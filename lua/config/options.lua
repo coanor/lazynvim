@@ -7,3 +7,4 @@ vim.g.lazyvim_rust_diagnostics = "rust-analyzer"
 vim.opt.tabstop = 2
 vim.opt.shiftwidth = 2
 vim.opt.mouse = ""
+vim.opt.conceallevel=0
