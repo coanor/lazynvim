@@ -37,7 +37,7 @@ return {
     opts = {
       -- 在这里指定你想用的主题名称
       -- 注意：这里填的是主题名，不是插件名 (例如 "kanagawa", "catppuccin", "gruvbox")
-      colorscheme = "gruvbox",
+      colorscheme = "carbonfox",
     },
   },
 }
